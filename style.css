@@ -1,0 +1,64 @@
+.he{
+    text-align: center;
+    font-size: 30px;
+    background-color: #aa00ff;
+    color:white;
+    font-family:"Lucida Console", "Courier New", monospace;
+    font-weight:600;
+    padding-top: 10px;
+    padding-bottom:10px;
+}
+
+.img{
+    display:flex;
+    justify-content:space-evenly;
+}
+
+.i1{
+    width: 70px;
+    height:70px;
+}
+
+.i2{
+    width: 70px;
+    height:70px;
+}
+.i3{
+    width: 70px;
+    height:70px;
+}
+.i4{
+    width: 70px;
+    height:70px;
+}
+.i5{
+    width: 70px;
+    height:70px;
+}
+.i6{
+    width: 70px;
+    height:70px;
+}
+
+.img7{
+    width:400px;
+    height:200px;
+    margin-top:50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+a{
+    text-decoration: none;
+    color:black;
+    display:flex;
+    justify-content: center;
+    margin-top:0px;
+    font-weight: bolder;
+
+}
+
+body{
+    margin:0;
+}
